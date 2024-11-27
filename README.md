@@ -1,9 +1,12 @@
 In 5G, network slicing allows the creation of isolated virtual networks tailored for different use cases like:
 
 •	eMBB (Enhanced Mobile Broadband): High-speed internet for applications like VR/AR.
+
 •	mMTC (Massive Machine-Type Communications): Supports IoT with low power and high device density.
+
 •	URLLC (Ultra-Reliable Low Latency Communications): For mission-critical applications like remote surgery.
 This simulation models each of these slices, providing an environment to explore how resources are allocated to meet the requirements of each slice.
+
 # STEPS TO EXECUTE
 1.	Install Python 3.8 or Higher:
 Ensure Python 3.8 or a later version is installed on your system.
