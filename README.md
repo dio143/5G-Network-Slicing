@@ -1,4 +1,5 @@
 In 5G, network slicing allows the creation of isolated virtual networks tailored for different use cases like:
+
 •	eMBB (Enhanced Mobile Broadband): High-speed internet for applications like VR/AR.
 •	mMTC (Massive Machine-Type Communications): Supports IoT with low power and high device density.
 •	URLLC (Ultra-Reliable Low Latency Communications): For mission-critical applications like remote surgery.
