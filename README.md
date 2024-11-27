@@ -7,7 +7,7 @@ This simulation models each of these slices, providing an environment to explore
 1.	Install Python 3.8 or Higher:
 Ensure Python 3.8 or a later version is installed on your system.
 2.	Clone the Repository:
-Use the command git clone https://github.com/rohan-chandrashekar/5g-network-slicing-simulation.git to download the project files and navigate into the directory using cd 5g-network-slicing-simulation.
+Use the command git clone pate the  Copied URL to download the project files and navigate into the directory using cd 5g-network-slicing-simulation.
 3.	Set Up a Virtual Environment (Optional):
 Create and activate a virtual environment to isolate dependencies:
 o	Windows: venv\Scripts\activate
